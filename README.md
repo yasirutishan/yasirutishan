@@ -56,5 +56,4 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"></code>
 </p>
- <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
 <!-- This readme was created by Yasiru Tishan - https://github.com/yasirutishan -->
