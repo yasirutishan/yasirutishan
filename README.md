@@ -56,34 +56,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"></code>
 </p>
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
-</p>
-
-## Support me
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-<p align="center">
-  <a href="https://www.patreon.com/onimur" target="_blank">
-    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
-  </a>
-  
-  ---
-
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
-  </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
-  </a>
-</p>
-
+ <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
 <!-- This readme was created by Yasiru Tishan - https://github.com/yasirutishan -->
