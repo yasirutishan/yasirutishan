@@ -1,6 +1,8 @@
 <!-- Your title -->
 ## Hi, I'm Tishan, a Architectural Developer 🚀 from Colombo.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirutishan&color=blue" alt="yasirutishan" /> </p>
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -10,7 +12,6 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/yasiru.tishan/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tishansilva91@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:yasirutishan@outlook.com)
-
 
 <!-- Talking about me -->
 
@@ -23,25 +24,10 @@ You can use the website to generate badges: https://shields.io/
 - 👷🏼‍♂️ Degree in Quantity Surveying.
 - 📫 How to reach me: yasirutishan@outlook.com;
 
-**Languages and Tools:** 
+![Tishan's github stats](https://github-readme-stats.vercel.app/api?username=yasirutishan&layout=compact&langs_count=8&theme=light)
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/messenger/messenger-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"></code>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirutishan&" alt="yasirutishan" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirutishan&layout=compact&langs_count=8&theme=light)
+
 <!-- This readme was created by Yasiru Tishan - https://github.com/yasirutishan -->
