@@ -11,14 +11,10 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tishansilva91@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:yasirutishan@outlook.com)
 
-&nbsp;
 
 <!-- Talking about me -->
+
 **What's About Me:**
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 👨🏽‍💻 Founder of ARCHI-TECT (PVT) LTD.
 - 🌱 Learning in NSBM.
 - 👯 Collaborate on NJ Consultants.
