@@ -3,7 +3,6 @@
 
 [![Twitter: @yasiru_tishan](https://img.shields.io/twitter/follow/yasiru_tishan?color=blue&label=Follow%20%40yasiru_tishan&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/@yasiru_tishan)
 [![GitHub: @yasirutishan](https://img.shields.io/github/followers/yasirutishan?color=green&logo=github&style=flat-square)](https://github.com/yasirutishan)
-[![LinkedIn: @yasirutishan](https://img.shields.io/badge/-Yasiru_Tishan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasirutishan)](https://www.linkedin.com/in/yasirutishan)
 <img src="https://komarev.com/ghpvc/?username=yasirutishan&color=blue" alt="yasirutishan" />
 
 
