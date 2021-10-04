@@ -1,8 +1,8 @@
 <!-- Your title -->
 ## Hi, I'm Tishan, a Architectural Developer from Colombo.
 
-[![Twitter: @yasiru_tishan](https://img.shields.io/twitter/follow/yasiru_tishan?color=blue&label=Follow%20%40yasiru_tishan&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/@yasiru_tishan)
-[![GitHub: @yasirutishan](https://img.shields.io/github/followers/yasirutishan?color=green&logo=github&style=flat-square)](https://github.com/yasirutishan)
+![Twitter Follow](https://img.shields.io/twitter/follow/yasiru_tishan?style=social)
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCeh1QctvANIkZfYmcYRhg6A?style=social">
 <img src="https://komarev.com/ghpvc/?username=yasirutishan&color=blue" alt="yasirutishan" />
 
 
