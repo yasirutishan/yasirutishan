@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Tishan, a Architectural Developer from Colombo.
+## Hi, I'm Tishan, a Architectural Developer 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/yasiru_tishan?style=social)
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCeh1QctvANIkZfYmcYRhg6A?style=social">
