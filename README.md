@@ -20,12 +20,10 @@ You can use the website to generate badges: https://shields.io/
 
 **What's About Me:**
 - 👨🏽‍💻 Founder of ARCHI-TECT (PVT) LTD.
-- 🌱 Learning in NSBM.
 - 👯 Collaborate on NJ Consultants.
 - ♻️ Design Pattern:- Revit and AutoCAD.
 - 🌐 Website on www.yasirutishan.com;
 - 👷🏼‍♂️ Degree in Quantity Surveying.
-- 📫 How to reach me: yasirutishan@outlook.com;
 
 ![Tishan's github stats](https://github-readme-stats.vercel.app/api?username=yasirutishan&layout=compact&langs_count=8&theme=light)
 
