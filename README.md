@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Tishan, a Architectural Developer 
+## Hi, I'm Yasiru Tishan, An Architectural Developer 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/yasiru_tishan?style=social)
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCeh1QctvANIkZfYmcYRhg6A?style=social">
@@ -18,7 +18,10 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about me -->
 
-I am a creative professional with extensive graphic design, web development, and project management. I am also good at multitasking and working under duress. I am an enthusiastic, confident character and goal-oriented team leader and counts on interpersonal skills and organizational planning as a critical strength. My experience in IT is attached to the technology industry, architectural, corporate sectors, and designer positions.
+![My Ftacebook Bacnner Template](https://user-images.githubusercontent.com/85503750/138105230-4e8934bb-c1ca-4f02-805e-2f177613b438.jpg)
+
+
+<p align="justify"> I am a creative professional with extensive graphic design, web development, and project management. I am also good at multitasking and working under duress. I am an enthusiastic, confident character and goal-oriented team leader and counts on interpersonal skills and organizational planning as a critical strength. My experience in IT is attached to the technology industry, architectural, corporate sectors, and designer positions.</p>
 
 ![Tishan's github stats](https://github-readme-stats.vercel.app/api?username=yasirutishan&layout=compact&langs_count=8&theme=light)
 
