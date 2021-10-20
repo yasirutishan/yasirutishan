@@ -20,8 +20,10 @@ You can use the website to generate badges: https://shields.io/
 
 ![My Ftacebook Bacnner Template](https://user-images.githubusercontent.com/85503750/138105230-4e8934bb-c1ca-4f02-805e-2f177613b438.jpg)
 
-
 <p align="justify"> I am a creative professional with extensive graphic design, web development, and project management. I am also good at multitasking and working under duress. I am an enthusiastic, confident character and goal-oriented team leader and counts on interpersonal skills and organizational planning as a critical strength. My experience in IT is attached to the technology industry, architectural, corporate sectors, and designer positions.</p>
+
+![UntitEWRWEled-1](https://user-images.githubusercontent.com/85503750/138106201-56c42153-8f95-4ae2-b583-38b4df5617ca.png)
+
 
 ![Tishan's github stats](https://github-readme-stats.vercel.app/api?username=yasirutishan&layout=compact&langs_count=8&theme=light)
 
