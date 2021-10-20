@@ -18,12 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about me -->
 
-**What's About Me:**
-- 👨🏽‍💻 Founder of ARCHI-TECT (PVT) LTD.
-- 👯 Collaborate on NJ Consultants.
-- ♻️ Design Pattern:- Revit and AutoCAD.
-- 🌐 Website on www.yasirutishan.com;
-- 👷🏼‍♂️ Degree in Quantity Surveying.
+I am a creative professional with extensive graphic design, web development, and project management. I am also good at multitasking and working under duress. I am an enthusiastic, confident character and goal-oriented team leader and counts on interpersonal skills and organizational planning as a critical strength. My experience in IT is attached to the technology industry, architectural, corporate sectors, and designer positions.
 
 ![Tishan's github stats](https://github-readme-stats.vercel.app/api?username=yasirutishan&layout=compact&langs_count=8&theme=light)
 
