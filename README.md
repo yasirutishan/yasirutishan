@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Yasiru Tishan, An Architectural Developer
+## Yasiru Tishan, Architectural Developer
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/yasiru_tishan?style=social)
