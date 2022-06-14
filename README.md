@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Yasiru Tishan -Architectural Developer-j
+## Yasiru Tishan -Architectural Developer-
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/yasiru_tishan?style=social)
