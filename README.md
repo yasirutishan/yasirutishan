@@ -2,7 +2,6 @@
 ## Yasiru Tishan -Architectural Developer-
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/yasiru_tishan?style=social)
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCeh1QctvANIkZfYmcYRhg6A?style=social">
 <img src="https://komarev.com/ghpvc/?username=yasirutishan&color=blue" alt="yasirutishan" />
 
