@@ -7,7 +7,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
             
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31jxjgqd5utpp372yoah6s3yz3vm&count=1)
+![Spotify recently played](https://readme-now-playing.vercel.app/now-playing/q?uid=31jxjgqd5utpp372yoah6s3yz3vm)
 
 
 <!-- Your badges
