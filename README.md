@@ -3,6 +3,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=yasirutishan&color=blue" alt="yasirutishan" />
 
+[![](https://visitcount.itsvg.in/api?id=lahiruroot&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+            
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31jxjgqd5utpp372yoah6s3yz3vm&count=1)
+
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
