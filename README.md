@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=yasirutishan&color=blue" alt="yasirutishan" />
 
-[![](https://visitcount.itsvg.in/api?id=lahiruroot&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yasirutishan&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![](https://readme-now-playing.vercel.app/now-playing/q?uid=31jxjgqd5utpp372yoah6s3yz3vm)
