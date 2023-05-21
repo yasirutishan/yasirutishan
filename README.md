@@ -6,8 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=lahiruroot&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-            
-![Spotify recently played]![](https://readme-now-playing.vercel.app/now-playing/q?uid=31jxjgqd5utpp372yoah6s3yz3vm)
+![](https://readme-now-playing.vercel.app/now-playing/q?uid=31jxjgqd5utpp372yoah6s3yz3vm)
 
 
 <!-- Your badges
