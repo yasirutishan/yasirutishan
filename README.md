@@ -1,8 +1,6 @@
 <!-- Your title -->
 ## Yasiru Tishan -Architectural Developer-
 
-
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCeh1QctvANIkZfYmcYRhg6A?style=social">
 <img src="https://komarev.com/ghpvc/?username=yasirutishan&color=blue" alt="yasirutishan" />
 
 
